@@ -421,7 +421,7 @@
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a href="<?= base_url('settingweb') ?>" class="nav-link <?= $page === 'settingweb' ? "active" : "" ?>">
+                    <a href="<?= base_url('homeprofile/settingweb') ?>" class="nav-link <?= $page === 'settingweb' ? "active" : "" ?>">
                         <i class="fas fa-cog nav-icon"></i>
                         <p>Setting Web Homeprofile</p>
                     </a>
