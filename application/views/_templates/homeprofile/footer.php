@@ -11,27 +11,26 @@
               blind texts.</p>
           </div> <!-- /.widget -->
           <div class="widget">
-            <h3>Connect</h3>
+            <h3>Media Spsial</h3>
             <ul class="list-unstyled social">
               <li><a href="#"><span class="icon-instagram"></span></a></li>
-              <li><a href="#"><span class="icon-twitter"></span></a></li>
-              <li><a href="#"><span class="icon-facebook"></span></a></li>
+              <li><a href="#"><span class="icon-youtube"></span></a></li>
+              <!-- <li><a href="#"><span class="icon-facebook"></span></a></li>
               <li><a href="#"><span class="icon-linkedin"></span></a></li>
               <li><a href="#"><span class="icon-pinterest"></span></a></li>
-              <li><a href="#"><span class="icon-dribbble"></span></a></li>
+              <li><a href="#"><span class="icon-dribbble"></span></a></li> -->
             </ul>
           </div> <!-- /.widget -->
         </div> <!-- /.col-lg-3 -->
 
         <div class="col-lg-2 ml-auto">
           <div class="widget">
-            <h3>Projects</h3>
+            <h3>Ekstrakulikuler</h3>
             <ul class="list-unstyled float-left links">
-              <li><a href="#">Web Design</a></li>
-              <li><a href="#">HTML5</a></li>
-              <li><a href="#">CSS3</a></li>
-              <li><a href="#">jQuery</a></li>
-              <li><a href="#">Bootstrap</a></li>
+              <li><a href="#">Catur</a></li>
+              <li><a href="#">Menari</a></li>
+              <li><a href="#">Mewarna</a></li>
+              <li><a href="#">Pramuka</a></li>
             </ul>
           </div> <!-- /.widget -->
         </div> <!-- /.col-lg-3 -->
@@ -66,9 +65,8 @@
         <div class="col-lg-3">
           <div class="widget">
             <h3>Contact</h3>
-            <address>43 Raymouth Rd. Baltemoer, London 3910</address>
+            <address>Jl. MT. Haryono XIII/50 Malang, Dinoyo, Kec. Lowokwaru, Kota Malang</address>
             <ul class="list-unstyled links mb-4">
-              <li><a href="tel://11234567890">+1(123)-456-7890</a></li>
               <li><a href="tel://11234567890">+1(123)-456-7890</a></li>
               <li><a href="mailto:info@mydomain.com">info@mydomain.com</a></li>
             </ul>
@@ -81,7 +79,7 @@
         <div class="col-12 text-center">
           <p>Copyright &copy;
             <script>document.write(new Date().getFullYear());</script>. All Rights Reserved. &mdash; Designed with love
-            by <a href="https://untree.co">Untree.co</a> <!-- License information: https://untree.co/license/ -->
+            by <a href="https://untree.co">Untree.co & PMM 19</a> <!-- License information: https://untree.co/license/ -->
         </div>
       </div>
     </div> <!-- /.container -->

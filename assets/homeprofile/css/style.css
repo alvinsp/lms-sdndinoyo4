@@ -969,6 +969,28 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
     -ms-transform: scale(1.05);
     transform: scale(1.05); }
 
+.btn-buat{
+  text-decoration: none;
+  text-align: center;
+  font-size: 0.8rem;
+  color: var(--bg-color);
+  font-weight: 500;
+  display: inline-block;
+  padding: 12px 38px;
+  border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+  margin-left: 50%;
+  transform: translateX(-50%);
+  -webkit-transform: translateX(-50%);
+  -moz-transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+  -o-transform: translateX(-50%);
+  margin-bottom: 30px;
+}
+
 .meta {
   font-size: 14px;
   color: #ccc; }

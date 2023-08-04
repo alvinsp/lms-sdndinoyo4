@@ -6,7 +6,11 @@
           <div class="col-lg-6 text-center ">
             <h1 class="mb-4 heading text-white" data-aos="fade-up" data-aos-delay="100">About Us</h1>
             <div class="mb-5 text-white desc mx-auto" data-aos="fade-up" data-aos-delay="200">
-              <p>Another free template by <a href="https://untree.co/" target="_blank" class="link-highlight">Untree.co</a>. Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live.</p>
+              <p><a href="https://untree.co/" target="_blank" class="link-highlight">SDN Dinoyo 04 Malang</a>. adalah Sekolah Dasar di Jawa Timur yang dibawah kementrian Pendidikan dan Kebudayaan. Dengan 3 filosofi kami.</p>
+              <span>Berbagi dengan Sesama,</span>
+              <span>Melangkah Maju,</span>
+              <span> dan</span>
+              <span>Berani untuk Mulai</span>
             </div>
 
             <p class="mb-0" data-aos="fade-up" data-aos-delay="300"><a href="#" class="btn btn-secondary">Explore courses</a></p>
@@ -26,7 +30,7 @@
 
 
 
-<div class="services-section">
+<!-- <div class="services-section">
   <div class="container">
     <div class="row justify-content-between">
       <div class="col-lg-4 mb-5 mb-lg-0">
@@ -55,15 +59,14 @@
       </div>
     </div>
   </div>
-</div>
+</div> -->
 
 
 <div class="untree_co-section bg-light">
   <div class="container">
     <div class="row justify-content-center mb-5">
       <div class="col-lg-7 text-center" data-aos="fade-up" data-aos-delay="0">
-        <h2 class="line-bottom text-center mb-4">Our Team</h2>
-        <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+        <h2 class="line-bottom text-center mb-4">Daftar Guru</h2>
       </div>
     </div>
     <div class="row">
@@ -112,9 +115,85 @@
           </div>
         </div>
       </div>
+      <div class="col-12 col-sm-6 col-md-6 mb-4 mb-lg-0 col-lg-4" data-aos="fade-up" data-aos-delay="200">
+        <div class="staff text-center">
+          <div class="mb-4"><img src="images/staff_3.jpg" alt="Image" class="img-fluid"></div>
+          <div class="staff-body">
+            <h3 class="staff-name">Cynthia Misso</h3>
+            <span class="d-block position mb-4">Teacher English</span>
+            <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+            <div class="social">
+              <a href="#" class="mx-2"><span class="icon-facebook"></span></a>
+              <a href="#" class="mx-2"><span class="icon-twitter"></span></a>
+              <a href="#" class="mx-2"><span class="icon-linkedin"></span></a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-12 col-sm-6 col-md-6 mb-4 mb-lg-0 col-lg-4" data-aos="fade-up" data-aos-delay="200">
+        <div class="staff text-center">
+          <div class="mb-4"><img src="images/staff_3.jpg" alt="Image" class="img-fluid"></div>
+          <div class="staff-body">
+            <h3 class="staff-name">Cynthia Misso</h3>
+            <span class="d-block position mb-4">Teacher English</span>
+            <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+            <div class="social">
+              <a href="#" class="mx-2"><span class="icon-facebook"></span></a>
+              <a href="#" class="mx-2"><span class="icon-twitter"></span></a>
+              <a href="#" class="mx-2"><span class="icon-linkedin"></span></a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-12 col-sm-6 col-md-6 mb-4 mb-lg-0 col-lg-4" data-aos="fade-up" data-aos-delay="200">
+        <div class="staff text-center">
+          <div class="mb-4"><img src="images/staff_3.jpg" alt="Image" class="img-fluid"></div>
+          <div class="staff-body">
+            <h3 class="staff-name">Cynthia Misso</h3>
+            <span class="d-block position mb-4">Teacher English</span>
+            <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+            <div class="social">
+              <a href="#" class="mx-2"><span class="icon-facebook"></span></a>
+              <a href="#" class="mx-2"><span class="icon-twitter"></span></a>
+              <a href="#" class="mx-2"><span class="icon-linkedin"></span></a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-12 col-sm-6 col-md-6 mb-4 mb-lg-0 col-lg-4" data-aos="fade-up" data-aos-delay="200">
+        <div class="staff text-center">
+          <div class="mb-4"><img src="images/staff_3.jpg" alt="Image" class="img-fluid"></div>
+          <div class="staff-body">
+            <h3 class="staff-name">Cynthia Misso</h3>
+            <span class="d-block position mb-4">Teacher English</span>
+            <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+            <div class="social">
+              <a href="#" class="mx-2"><span class="icon-facebook"></span></a>
+              <a href="#" class="mx-2"><span class="icon-twitter"></span></a>
+              <a href="#" class="mx-2"><span class="icon-linkedin"></span></a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-12 col-sm-6 col-md-6 mb-4 mb-lg-0 col-lg-4" data-aos="fade-up" data-aos-delay="200">
+        <div class="staff text-center">
+          <div class="mb-4"><img src="images/staff_3.jpg" alt="Image" class="img-fluid"></div>
+          <div class="staff-body">
+            <h3 class="staff-name">Cynthia Misso</h3>
+            <span class="d-block position mb-4">Teacher English</span>
+            <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+            <div class="social">
+              <a href="#" class="mx-2"><span class="icon-facebook"></span></a>
+              <a href="#" class="mx-2"><span class="icon-twitter"></span></a>
+              <a href="#" class="mx-2"><span class="icon-linkedin"></span></a>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
-</div> <!-- /.untree_co-section -->
+</div>
+<!-- /.untree_co-section -->
 
 
 
